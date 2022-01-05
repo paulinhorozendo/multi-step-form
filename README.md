@@ -2,7 +2,7 @@
 
 ## Formulário em etapas para o usuário realizar o cadastro
 
-###Primeira etapa.
+### Primeira etapa.
 - O usuário deve digitar e preencher os campos com:
 - Nome,
 - Sobrenome,
