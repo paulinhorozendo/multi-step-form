@@ -18,6 +18,8 @@
 - O usuário deve digitar e preencher os campos com:
 - Nacionalidade,
 - Alguma outra informação que ele considerar relevante.
+- Por último o usuário deve clicar em "Submit" para fazer o envio do cadastro <br/>
+ e visualizar na tela a confirmação da requisição.
 
 
 
